@@ -1,15 +1,15 @@
 # RPG in JavaScript -> Enchant.js:
-![Exemplo do Twitch Animator](docs/demo-game.png)   
+![Demo do Game](docs/demo-game.png)   
 
 ## Demo online:
 https://gabrieldarezzo.github.io/rpg/
 
 
 ## Objetivo:
-Usar o `Enchant.js` para criar Sprites dinamicos usando a base:
-![Exemplo do Twitch Animator](docs/sprites.png)   
-![Exemplo do Twitch Animator](docs/items.png)   
-E criar uma especie de RPG.
+Usar o `Enchant.js` e apartir das sprites:
+![Sprites](sprites.png)   
+![Items](items.png)   
+Criar uma especie de RPG.
 
 
 ### YouTube:
